@@ -4,7 +4,7 @@
 
 ### Домашнее задание №1
 
-- Задача_№1(Lesson_1/lesson_1_task_1.py)
+- [Задача_№1](Lesson_1/lesson_1_task_1.py)
 - Задача_№2(Lesson_1/lesson_1_task_2.py)
 - Задача_№3(Lesson_1/lesson_1_task_3.py)
 - Задача_№4(Lesson_1/lesson_1_task_4.py)
