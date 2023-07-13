@@ -25,3 +25,7 @@
 - [Задача_№8](Lesson_2/lesson_1_task_8.py)
 - [Задача_№9](Lesson_2/lesson_1_task_9.py)
 - [Задача_№10](Lesson_2/lesson_1_task_10.py)
+
+### Домашнее задание №3
+
+- [Задача_№1](Lesson_3/lesson_1_task_10.py)
