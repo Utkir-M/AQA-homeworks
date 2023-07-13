@@ -1,7 +1,8 @@
-#1-й вариант
-#square_str = input("Введите одну сторону квадрата: ")
-#square = int(square_str)
-# 2-й вариант:
-square = int(input("Введите одну сторону квадрата: "))
+import math
 
-print('Площадь квадрата =', square * square)
+def square(side):
+    side = math.ceil(float(side))
+    print('Площадь квадрата =', side * side)
+
+square(input("Введите одну сторону квадрата: "))
+ 
